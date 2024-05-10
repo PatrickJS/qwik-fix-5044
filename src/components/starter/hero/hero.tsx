@@ -11,7 +11,7 @@ export default component$(() => {
       <Form action={action}>
         <input type="hidden" name="key" value="value" />
         <button onClick$={() => action.submit({ key: 'value' })}>
-          Test Me
+          Test Me action onClick
         </button>
         <button type="submit">Test Me</button>
       </Form>
