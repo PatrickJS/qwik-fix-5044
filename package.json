@@ -34,7 +34,7 @@
     "compression": "^1.7.4",
     "eslint": "8.40.0",
     "eslint-plugin-qwik": "^1.1.4",
-    "express": "4.18.2",
+    "express": "4.19.2",
     "prettier": "2.8.8",
     "typescript": "5.0.4",
     "undici": "5.22.1",
